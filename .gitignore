@@ -1,1 +1,2 @@
-tmp/haml/*
+.DS_Store
+tmp/*/*
